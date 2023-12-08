@@ -14,9 +14,10 @@ pip install numpy
 pip install PIL
 pip install pandas
 pip install sklearn
+
 Then, run the following command:
 
-python fire_detection.py
+python yangin_tespit.py
 
 ## Results
 
