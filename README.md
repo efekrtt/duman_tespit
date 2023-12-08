@@ -11,9 +11,13 @@ The script also plots the ROC curve for the classifier. The ROC curve shows the 
 To run the script, first install the required libraries:
 
 pip install numpy
+
 pip install PIL
+
 pip install pandas
+
 pip install sklearn
+
 
 Then, run the following command:
 
