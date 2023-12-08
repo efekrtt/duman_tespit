@@ -1,4 +1,4 @@
-Fire Detection with Decision Trees
+## Fire Detection with Decision Trees
 
 This repository contains a Python script that uses a decision tree to detect fires. The script uses a dataset of images of smoke from the Wildfire Smoke Dataset. The images are classified as either "no fire" or "fire".
 
@@ -6,7 +6,7 @@ The script first pre-processes the images by converting them to grayscale and re
 
 The script also plots the ROC curve for the classifier. The ROC curve shows the trade-off between true positive rate (TPR) and false positive rate (FPR).
 
-Instructions
+## Instructions
 
 To run the script, first install the required libraries:
 
@@ -17,7 +17,8 @@ pip install sklearn
 Then, run the following command:
 
 python fire_detection.py
-Results
+
+## Results
 
 The script will print the following results:
 
